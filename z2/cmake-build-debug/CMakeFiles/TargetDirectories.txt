@@ -1,0 +1,3 @@
+C:/Users/SZEF/Desktop/c++/cw8/z2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SZEF/Desktop/c++/cw8/z2/cmake-build-debug/CMakeFiles/z2.dir
+C:/Users/SZEF/Desktop/c++/cw8/z2/cmake-build-debug/CMakeFiles/edit_cache.dir
